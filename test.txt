@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 new text 29/06
+=======
+text20
+testText
+>>>>>>> 0a3a6dda6413fc0656494a150b1dd08b1f2fafae
